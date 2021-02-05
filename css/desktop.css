@@ -151,7 +151,6 @@ main{
 
 .cards .cards-wrapper .card img{
   width: 100%;
-  min-height: 50%;
   object-fit: cover;
 }
 
