@@ -5,7 +5,7 @@
 **NOTE:** 
 version 0.8.01
 
-This assignment is based on the previous assignment, i just fix some issue and added gallery section.
+This assignment is based on the previous assignment 2, i just fix some issue and added gallery section.
 On  assignment 4 hero page, i am going to make new landing page not base on this file.
 
 ---
@@ -59,10 +59,10 @@ open the file in notepad++ and change  "img/png" to "image/png".
 ---
 ## Links
 **GH repo**
-github repo[]()
+github repo [https://github.com/nozky/cpnt260-a3](https://github.com/nozky/cpnt260-a3)
 
 **GH Pages site**
-Github page site[]( )
+Github page [https://nozky.github.io/cpnt260-a3/](https://nozky.github.io/cpnt260-a3/ )
 
 
 
